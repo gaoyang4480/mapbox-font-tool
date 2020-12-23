@@ -6,6 +6,6 @@ execute command:
 ```
 cd convert-font
 npm install
-node index.js
+node index.js -s <fontfile> -o <outputdir> 
 ``` 
 
